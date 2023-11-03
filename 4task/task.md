@@ -8,4 +8,3 @@
 #####  ribbons: view -> style scene -> overall style: ribbon
 #####  schematics: view -> style scene -> overall style: cartoon & ligand
 #####  molecular surface: view -> show surface -> of: all
-## 3. 
